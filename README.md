@@ -16,7 +16,11 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 - ✅ Themes: Implementing a visually appealing and consistent theme across the app.
 - ✅ Navigation: Implemented Stack and Tab Navigation for an intuitive user experience.
 - ✅ HomeScreen: Developed the HomeScreen as the central hub of the app.
+- ✅ SearchScreen: Developed the SearchScreen as a key feature of the app for easy movie searches.
 
+## Next Steps
+
+- 🔄 Working on the MovieDetailsScreen to provide comprehensive details about each movie.
 
 ## Tech Stack
 
@@ -28,7 +32,7 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 ## Learnings
 
 This project has been a great learning experience, allowing me to:
-- Enhance skills in **React Native** and mobile app development.
+- Enhance my skills in **React Native** and mobile app development.
 - Implement and manage **API integrations** effectively.
 - Design and apply consistent **theming** across the app.
 - Develop intuitive **navigation structures** using stack and tab navigation.
@@ -36,7 +40,8 @@ This project has been a great learning experience, allowing me to:
 
 ## Screenshot
 
-![App Screenshot](./sample.png)
+![HomeScreen](./sample.png)
+![SearchScreen](./sample2.png)
 
 ## Usage
 
@@ -49,4 +54,5 @@ Once the app is running, you can:
 - Access your booked tickets locally stored on your device.
 
 ## Author
+
 This app is created and managed by Vishal Pandey.
