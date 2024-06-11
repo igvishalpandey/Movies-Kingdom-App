@@ -18,10 +18,11 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 - ✅ HomeScreen: Developed the HomeScreen as the central hub of the app.
 - ✅ SearchScreen: Developed the SearchScreen as a key feature of the app for easy movie searches.
 - ✅ MovieDetailsScreen: Developed the Movie Details Screen to display comprehensive information about each movie.
+- ✅ SeatBookingScreen: Developed the Seat Booking Screen to allow users to select their preferred seats and book tickets directly through the app.
 
 ## Next Steps
 
-- 🔄 Working on the Seat Booking Screen to allow users to select their preferred seats and book tickets directly through the app.
+- 🔄 Working on the Ticket Screen to provide users with their booked ticket information.
 
 ## Tech Stack
 
@@ -43,7 +44,10 @@ This project has been a great learning experience, allowing me to:
 ## Screenshot
 
 ![HomeScreen](./sample.png)
-![SearchScreen](./sample2.png)
+![SearchScreen](./sample_02.png)
+![MovieDetailsScreen](./sample_03.png)
+![SeatBookingScreen](./sample_04.png)
+
 
 ## Usage
 
