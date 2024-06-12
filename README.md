@@ -10,7 +10,7 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 - **Ticket Booking**: Select your seats and book tickets seamlessly.
 - **Local Storage**: Store your tickets on your device for easy access.
 
-## Current Progress
+## Features
 
 - ✅ API Integration: Setting up seamless connections with TheMovieDataBase API.
 - ✅ Themes: Implementing a visually appealing and consistent theme across the app.
@@ -19,10 +19,8 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 - ✅ SearchScreen: Developed the SearchScreen as a key feature of the app for easy movie searches.
 - ✅ MovieDetailsScreen: Developed the Movie Details Screen to display comprehensive information about each movie.
 - ✅ SeatBookingScreen: Developed the Seat Booking Screen to allow users to select their preferred seats and book tickets directly through the app.
-
-## Next Steps
-
-- 🔄 Working on the Ticket Screen to provide users with their booked ticket information.
+- ✅ TicketScreen: Developed the Ticket Screen to display details of booked tickets.
+- ✅ AccountScreen: Developed the Account Screen for managing user profiles and settings.
 
 ## Tech Stack
 
@@ -34,7 +32,6 @@ Welcome to the Movie Ticket Booking App repository! This app is built using Reac
 ## Learnings
 
 This project has been a great learning experience, allowing me to:
-
 - Enhance my skills in **React Native** and mobile app development.
 - Implement and manage **API integrations** effectively.
 - Design and apply consistent **theming** across the app.
@@ -47,6 +44,9 @@ This project has been a great learning experience, allowing me to:
 ![SearchScreen](./sample_02.png)
 ![MovieDetailsScreen](./sample_03.png)
 ![SeatBookingScreen](./sample_04.png)
+![TicketScreen](./sample_05.png)
+![AccountScreen](./sample_06.png)
+
 
 
 ## Usage
